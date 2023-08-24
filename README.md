@@ -18,6 +18,9 @@ https://github.com/shaden-2000/TayqanApplication/assets/100734021/2ed4dcbe-319a-
 * Flutter
 * Android studio
 
+### Database
+* firebase
+
 ### Front-end
 * taking a picture
 1. code
