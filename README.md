@@ -3,3 +3,11 @@
 1. Organizing drugs schedules for patients.
 2. Sending reminders to health care providers to administer drugs.
 3. Warning health care providers about any conflicting drugs.
+
+
+### Language
+* Dart
+
+### Framework
+*Flutter
+*Android studio
