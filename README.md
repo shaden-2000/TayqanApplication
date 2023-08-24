@@ -17,6 +17,7 @@ A mobile application utilizing artificial intelligence technology. The main idea
 * taking a picture
 1. code
 2. interface
+```
 
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -64,7 +65,7 @@ A mobile application utilizing artificial intelligence technology. The main idea
                                     shadowColor: Color(0xffFFC6D8),
                                     elevation: 5,
                                     shape: RoundedRectangleBorder(
-                                      //  حواف المربع كل ما زدت صارت دائره كل ما نقصت صارت مربع
+                                   
                                         borderRadius: BorderRadius.circular(20.0)),
                                   ),
                                   onPressed: () {
@@ -134,5 +135,7 @@ A mobile application utilizing artificial intelligence technology. The main idea
       ),
     );
   }
+```
+
 
   
