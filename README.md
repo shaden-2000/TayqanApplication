@@ -136,6 +136,9 @@ A mobile application utilizing artificial intelligence technology. The main idea
     );
   }
 ```
+![interface of the drug being detected by the ai model using live camera.](C:/Users/xxsha/Downloads/live camera.jpeg)
+
+
 
 
   
