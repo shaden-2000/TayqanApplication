@@ -4,6 +4,11 @@ A mobile application utilizing artificial intelligence technology. The main idea
 1. Organizing drugs schedules for patients.
 2. Sending reminders to health care providers to administer drugs.
 3. Warning health care providers about any conflicting drugs.
+### DEMO
+
+
+https://github.com/shaden-2000/TayqanApplication/assets/100734021/2ed4dcbe-319a-4f35-a932-24539b8de52a
+
 
 
 ### Language
