@@ -18,7 +18,7 @@ A mobile application utilizing artificial intelligence technology. The main idea
 1. code
 2. interface
 
->   Widget build(BuildContext context) {
+   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
         backgroundColor: Colors.black,
